@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\charRain.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\flashArt.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\flashTriangles.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\textBanner.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxBaseGui.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxButton.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxGuiGroup.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxLabel.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxPanel.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSlider.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxToggle.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxPoco\src\ofxXmlPoco.cpp">
+      <Filter>addons\ofxPoco\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\local_addons\ofxAutoReloadedShader\src\ofxAutoReloadedShader.cpp">
+      <Filter>local_addons\ofxAutoReloadedShader\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\local_addons\ofxShaderGlitch\src\GlitchManager\CellManager\CellManager.cpp">
+      <Filter>local_addons\ofxShaderGlitch\src\GlitchManager\CellManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\local_addons\ofxShaderGlitch\src\GlitchManager\FeedbackManager\FeedbackManager.cpp">
+      <Filter>local_addons\ofxShaderGlitch\src\GlitchManager\FeedbackManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\local_addons\ofxShaderGlitch\src\GlitchManager\GlitchManager.cpp">
+      <Filter>local_addons\ofxShaderGlitch\src\GlitchManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\local_addons\ofxShaderGlitch\src\ofxShaderGlitch.cpp">
+      <Filter>local_addons\ofxShaderGlitch\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGui">
+      <UniqueIdentifier>{4F2A59AF-5F4E-704B-D067-EC13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGui\src">
+      <UniqueIdentifier>{645E9533-4DCD-6179-1CDF-CB65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxPoco">
+      <UniqueIdentifier>{3256AE3E-9B29-EA27-C842-CE6B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxPoco\src">
+      <UniqueIdentifier>{C7D4269D-D8A9-A7BB-531B-98DA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="local_addons">
+      <UniqueIdentifier>{DE6745C7-E99D-D8E0-F77D-C032}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="local_addons\ofxAutoReloadedShader">
+      <UniqueIdentifier>{D751FE36-62AA-A498-4F19-E67F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="local_addons\ofxAutoReloadedShader\src">
+      <UniqueIdentifier>{B8177CE0-4DEB-F0A6-33EE-60EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="local_addons\ofxShaderGlitch">
+      <UniqueIdentifier>{AFAC2382-345A-40A9-2947-FCE6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="local_addons\ofxShaderGlitch\src">
+      <UniqueIdentifier>{08BD7D8E-CE88-1AFB-6C12-650A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="local_addons\ofxShaderGlitch\src\GlitchManager">
+      <UniqueIdentifier>{EFA31F2E-8418-E5EC-5798-3F1F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="local_addons\ofxShaderGlitch\src\GlitchManager\CellManager">
+      <UniqueIdentifier>{0FD570E1-0D76-68A9-0552-4C6B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="local_addons\ofxShaderGlitch\src\GlitchManager\FeedbackManager">
+      <UniqueIdentifier>{DD5BF2A1-6A92-D38E-35B5-0A38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="local_addons\ofxShaderGlitch\src\GlitchManager\Shaders">
+      <UniqueIdentifier>{F1E19FCD-76B4-663A-4B6B-8AAB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="local_addons\ofxShaderGlitch\src\GlitchManager\Shaders\Feedback">
+      <UniqueIdentifier>{C5F3C607-4E00-1D1E-F049-A0E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="local_addons\ofxShaderGlitch\src\GlitchManager\Shaders\Gaussian">
+      <UniqueIdentifier>{66BCD515-62E9-F3AA-E7CC-A2A6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\charRain.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\flashArt.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\flashTriangles.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\textBanner.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxBaseGui.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxButton.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxGui.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxGuiGroup.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxGuiUtils.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxLabel.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxPanel.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSlider.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxToggle.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\addons\ofxPoco\src\ofxXmlPoco.h">
+      <Filter>addons\ofxPoco\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\local_addons\ofxAutoReloadedShader\src\ofxAutoReloadedShader.h">
+      <Filter>local_addons\ofxAutoReloadedShader\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\local_addons\ofxShaderGlitch\src\constants.h">
+      <Filter>local_addons\ofxShaderGlitch\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\local_addons\ofxShaderGlitch\src\GlitchManager\CellManager\CellManager.hpp">
+      <Filter>local_addons\ofxShaderGlitch\src\GlitchManager\CellManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\local_addons\ofxShaderGlitch\src\GlitchManager\FeedbackManager\FeedbackManager.hpp">
+      <Filter>local_addons\ofxShaderGlitch\src\GlitchManager\FeedbackManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\local_addons\ofxShaderGlitch\src\GlitchManager\GlitchManager.hpp">
+      <Filter>local_addons\ofxShaderGlitch\src\GlitchManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\local_addons\ofxShaderGlitch\src\ofxShaderGlitch.h">
+      <Filter>local_addons\ofxShaderGlitch\src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
